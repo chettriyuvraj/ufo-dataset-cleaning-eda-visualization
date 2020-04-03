@@ -1,6 +1,6 @@
 # ufo-dataset-cleaning-eda-visualization
 Performing elementary cleaning, EDA and visualization on a 'UFO sightings' dataset sourced from Kaggle. 
-**Dataset**: [UFO sightings in the last centure](https://www.kaggle.com/NUFORC/ufo-sightings)
+**Dataset**: [UFO sightings in the last century.](https://www.kaggle.com/NUFORC/ufo-sightings)
 
 
 ## How to run: 
