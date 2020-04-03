@@ -20,7 +20,7 @@ or
 
 ## Issues: 
 
-1. Plots do not render - the plotly plots mysteriously do not render at times when viewed through the nbviewer link. Possibile issue with the screen size. 
+1. Plots do not render - the plotly plots mysteriously do not render at times when viewed through the nbviewer link. Possible issue with the screen size. 
 **Fix/Workaround**: Try viewing through a cell phone, usually work for most mobile screens. 
 
 2. IPYNB notebook does not render plots - both on Github as well as nbviewer. Do connect if any fix found/known.
