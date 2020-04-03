@@ -9,6 +9,8 @@ Performing elementary cleaning, EDA and visualization on a 'UFO sightings' datas
 
 [Performing elementary cleaning, EDA and visualization on a 'UFO sightings' dataset sourced from Kaggle](https://nbviewer.jupyter.org/github/chettriyuvraj/ufo-dataset-cleaning-eda-visualization/blob/master/ufo_dataset_notebook.html)
 
+(Do wait for 10-15 minutes for the plots to render) 
+
 **The above link has about 8-10 pie/bar/scatter plots Please report issue if plots not rendering.**
 
 or
@@ -21,7 +23,7 @@ or
 ## Issues: 
 
 1. Plots do not render - the plotly plots mysteriously do not render at times when viewed through the nbviewer link. Possible issue with the screen size. 
-**Fix/Workaround**: Try viewing through a cell phone, usually work for most mobile screens. 
+**Fix/Workaround**: Wait for 10-15 minutes. Else, try viewing through a mobile device, usually work for most mobile screens. 
 
 2. IPYNB notebook does not render plots - both on Github as well as nbviewer. Do connect if any fix found/known.
 **Fix/Workaround**: Notebook converted to html and viewed through nbviewer - still presenting issues rendering plots on some devices. 
