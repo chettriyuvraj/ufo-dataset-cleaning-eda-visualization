@@ -7,7 +7,7 @@ Performing elementary cleaning, EDA and visualization on a 'UFO sightings' datas
 
 1. Simple view - This is an HTML rendering of the Jupyter Notebook viewed through nbviewer: 
 
-    [Performing elementary cleaning, EDA and visualization on a 'UFO sightings' dataset sourced from Kaggle]                  (https://nbviewer.jupyter.org/github/chettriyuvraj/ufo-dataset-cleaning-eda-visualization/blob/master/ufo_dataset_notebook.html)
+[Performing elementary cleaning, EDA and visualization on a 'UFO sightings' dataset sourced from Kaggle]                =(https://nbviewer.jupyter.org/github/chettriyuvraj/ufo-dataset-cleaning-eda-visualization/blob/master/ufo_dataset_notebook.html)
 
     (Do wait for 10-15 minutes for the plots to render) 
 
