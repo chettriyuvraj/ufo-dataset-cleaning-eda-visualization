@@ -7,14 +7,13 @@ Performing elementary cleaning, EDA and visualization on a 'UFO sightings' datas
 
 1. Simple view - This is an HTML rendering of the Jupyter Notebook viewed through nbviewer: 
 
-  [Performing elementary cleaning, EDA and visualization on a 'UFO sightings' dataset sourced from Kaggle]            (https://nbviewer.jupyter.org/github/chettriyuvraj/ufo-dataset-cleaning-eda-visualization/blob/master/ufo_dataset_notebook.html)
+[Performing elementary cleaning, EDA and visualization on a 'UFO sightings' dataset sourced from Kaggle]            (https://nbviewer.jupyter.org/github/chettriyuvraj/ufo-dataset-cleaning-eda-visualization/blob/master/ufo_dataset_notebook.html)
 
-  (Do wait for 10-15 minutes for the plots to render) 
+(Do wait for 10-15 minutes for the plots to render) 
 
-  **The above link has about 8-10 pie/bar/scatter plots Please report issue if plots not rendering.**
+**The above link has about 8-10 pie/bar/scatter plots Please report issue if plots not rendering.**
 
-  or
-
+or
 
 2. Clone the repository and run the entire .ipynb notebook provided on Jupyter Notebooks - might take 15-20 minutes to perform computations plus rendering the plots. Requirements: Jupyter notebook + plotly (No separate requirements file attached).
 
